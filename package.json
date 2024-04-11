@@ -1,0 +1,27 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor/android": "^5.7.2",
+    "@capacitor/cli": "^5.7.2",
+    "@capacitor/core": "^5.7.2",
+    "ant-design-vue": "^4.1.2",
+    "echarts": "^5.5.0",
+    "naive-ui": "^2.38.1",
+    "pinia": "^2.1.7",
+    "siriwave": "^2.4.0",
+    "three": "^0.162.0",
+    "vue": "^3.4.19"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.1.4"
+  }
+}

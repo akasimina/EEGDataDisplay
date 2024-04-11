@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.myapp",
+  "appName": "dataTest",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
